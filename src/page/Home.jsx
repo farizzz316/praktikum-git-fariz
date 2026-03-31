@@ -97,7 +97,7 @@ function App() {
         <div className="mt-10 pt-6 border-t border-slate-800 flex items-center justify-center gap-2">
           <span className="w-2 h-2 rounded-full bg-blue-500 animate-pulse"></span>
           <p className="text-[11px] text-slate-500 font-extrabold tracking-widest uppercase">
-            
+            Kelompok ROMUSA
           </p>
         </div>
 
