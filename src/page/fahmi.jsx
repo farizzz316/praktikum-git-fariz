@@ -16,7 +16,7 @@ function Fahmi() {
 
                     <div className="ml-40">
                         <h1 className="text-3xl font-bold">Muhammad Fahmi Ramadhan</h1>
-                        <p className="text-gray-200">Mahasiswa Brawijaya</p>
+                        <p className="text-gray-200">Mahasiswa D3 Teknologi Informasi</p>
                     </div>
                 </div>
 
@@ -99,7 +99,7 @@ function Fahmi() {
                         <div className="bg-gray-900 p-6 rounded-2xl shadow-lg">
                             <h2 className="text-xl font-semibold mb-3">Info</h2>
                             <p>Kelas: T2G</p>
-                            <p>Prodi: Teknologi Informasi</p>
+                            <p>Prodi: D3 Teknologi Informasi</p>
                             <p>Domisili: Tulunggagung</p>
                         </div>
 
